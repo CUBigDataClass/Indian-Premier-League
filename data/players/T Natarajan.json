@@ -1,0 +1,81 @@
+{
+        "T Natarajan": {
+                "team_name": "sunrisers-hyderabad",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "27 May 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 6,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 6,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 6,
+                                "Balls": 76,
+                                "Runs": 115,
+                                "WKTS": 2,
+                                "BBM": "1/26",
+                                "Ave": 57.5,
+                                "Econ": 9.07,
+                                "SR": 38.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 6,
+                                "Balls": 76,
+                                "Runs": 115,
+                                "WKTS": 2,
+                                "BBM": "1/26",
+                                "Ave": 57.5,
+                                "Econ": 9.07,
+                                "SR": 38.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

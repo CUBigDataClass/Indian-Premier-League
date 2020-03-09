@@ -1,0 +1,139 @@
+{
+        "Ben Stokes": {
+                "team_name": "rajasthan-royals",
+                "stats": {
+                        "Matches": "9",
+                        "Runs": "123",
+                        "Wickets": "6"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "04 June 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 34,
+                                "No": 5,
+                                "Runs": 635,
+                                "HS": "103",
+                                "Ave": 22.67,
+                                "BF": 481,
+                                "SR": 132.01,
+                                "100": 1,
+                                "50": 1,
+                                "4s": 43,
+                                "6s": 25,
+                                "CT": 14,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 9,
+                                "No": 3,
+                                "Runs": 123,
+                                "HS": "46",
+                                "Ave": 20.5,
+                                "BF": 99,
+                                "SR": 124.24,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 8,
+                                "6s": 4,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 13,
+                                "No": 1,
+                                "Runs": 196,
+                                "HS": "45",
+                                "Ave": 16.33,
+                                "BF": 161,
+                                "SR": 121.73,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 13,
+                                "6s": 6,
+                                "CT": 6,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 12,
+                                "No": 1,
+                                "Runs": 316,
+                                "HS": "103",
+                                "Ave": 31.6,
+                                "BF": 221,
+                                "SR": 142.98,
+                                "100": 1,
+                                "50": 1,
+                                "4s": 22,
+                                "6s": 15,
+                                "CT": 5,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 34,
+                                "Balls": 587,
+                                "Runs": 808,
+                                "WKTS": 26,
+                                "BBM": "3/15",
+                                "Ave": 31.07,
+                                "Econ": 8.25,
+                                "SR": 22.57,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 9,
+                                "Balls": 101,
+                                "Runs": 189,
+                                "WKTS": 6,
+                                "BBM": "2/39",
+                                "Ave": 31.5,
+                                "Econ": 11.22,
+                                "SR": 16.83,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 13,
+                                "Balls": 222,
+                                "Runs": 303,
+                                "WKTS": 8,
+                                "BBM": "3/15",
+                                "Ave": 37.87,
+                                "Econ": 8.18,
+                                "SR": 27.75,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 12,
+                                "Balls": 264,
+                                "Runs": 316,
+                                "WKTS": 12,
+                                "BBM": "3/18",
+                                "Ave": 26.33,
+                                "Econ": 7.18,
+                                "SR": 22.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

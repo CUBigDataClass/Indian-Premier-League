@@ -1,0 +1,110 @@
+{
+        "Moeen Ali": {
+                "team_name": "royal-challengers-bangalore",
+                "stats": {
+                        "Matches": "11",
+                        "Runs": "220",
+                        "Wickets": "6"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "18 June 1987",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 16,
+                                "No": 2,
+                                "Runs": 297,
+                                "HS": 66,
+                                "Ave": 24.75,
+                                "BF": 179,
+                                "SR": 165.92,
+                                "100": 0,
+                                "50": 3,
+                                "4s": 20,
+                                "6s": 23,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 11,
+                                "No": 2,
+                                "Runs": 220,
+                                "HS": 66,
+                                "Ave": 27.5,
+                                "BF": 133,
+                                "SR": 165.41,
+                                "100": 0,
+                                "50": 2,
+                                "4s": 16,
+                                "6s": 17,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 5,
+                                "No": 0,
+                                "Runs": 77,
+                                "HS": 65,
+                                "Ave": 19.25,
+                                "BF": 46,
+                                "SR": 167.39,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 4,
+                                "6s": 6,
+                                "CT": 2,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 16,
+                                "Balls": 229,
+                                "Runs": 266,
+                                "WKTS": 9,
+                                "BBM": "2/18",
+                                "Ave": 29.55,
+                                "Econ": 6.96,
+                                "SR": 25.44,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 11,
+                                "Balls": 150,
+                                "Runs": 169,
+                                "WKTS": 6,
+                                "BBM": "2/18",
+                                "Ave": 28.16,
+                                "Econ": 6.76,
+                                "SR": 25.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 5,
+                                "Balls": 79,
+                                "Runs": 97,
+                                "WKTS": 3,
+                                "BBM": "1/13",
+                                "Ave": 32.33,
+                                "Econ": 7.36,
+                                "SR": 26.33,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

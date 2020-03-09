@@ -1,0 +1,81 @@
+{
+        "Keemo Paul": {
+                "team_name": "delhi-capitals",
+                "stats": {
+                        "Matches": "8",
+                        "Runs": "18",
+                        "Wickets": "9"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "West Indian",
+                        "Nickname": "",
+                        "DOB": "21 February 1998",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 8,
+                                "No": 1,
+                                "Runs": 18,
+                                "HS": 7,
+                                "Ave": 3.6,
+                                "BF": 24,
+                                "SR": 75.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 5,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 8,
+                                "No": 1,
+                                "Runs": 18,
+                                "HS": 7,
+                                "Ave": 3.6,
+                                "BF": 24,
+                                "SR": 75.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 5,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 8,
+                                "Balls": 163,
+                                "Runs": 237,
+                                "WKTS": 9,
+                                "BBM": "3/17",
+                                "Ave": 26.33,
+                                "Econ": 8.72,
+                                "SR": 18.11,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 8,
+                                "Balls": 163,
+                                "Runs": 237,
+                                "WKTS": 9,
+                                "BBM": "3/17",
+                                "Ave": 26.33,
+                                "Econ": 8.72,
+                                "SR": 18.11,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

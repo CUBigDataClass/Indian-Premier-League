@@ -1,0 +1,139 @@
+{
+        "Washington Sundar": {
+                "team_name": "royal-challengers-bangalore",
+                "stats": {
+                        "Matches": "3",
+                        "Runs": "1",
+                        "Wickets": "4"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "05 October 1999",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 21,
+                                "No": 7,
+                                "Runs": 75,
+                                "HS": "35",
+                                "Ave": 12.5,
+                                "BF": 53,
+                                "SR": 141.5,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 5,
+                                "6s": 4,
+                                "CT": 7,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": 0.5,
+                                "BF": 3,
+                                "SR": 33.33,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 7,
+                                "No": 3,
+                                "Runs": 65,
+                                "HS": "35",
+                                "Ave": 21.66,
+                                "BF": 38,
+                                "SR": 171.05,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 5,
+                                "6s": 4,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 11,
+                                "No": 4,
+                                "Runs": 9,
+                                "HS": "5",
+                                "Ave": 9.0,
+                                "BF": 12,
+                                "SR": 75.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 5,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 21,
+                                "Balls": 354,
+                                "Runs": 451,
+                                "WKTS": 16,
+                                "BBM": "3/16",
+                                "Ave": 28.18,
+                                "Econ": 7.64,
+                                "SR": 22.12,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 3,
+                                "Balls": 54,
+                                "Runs": 74,
+                                "WKTS": 4,
+                                "BBM": "3/24",
+                                "Ave": 18.5,
+                                "Econ": 8.22,
+                                "SR": 13.5,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 7,
+                                "Balls": 120,
+                                "Runs": 192,
+                                "WKTS": 4,
+                                "BBM": "2/22",
+                                "Ave": 48.0,
+                                "Econ": 9.6,
+                                "SR": 30.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 11,
+                                "Balls": 180,
+                                "Runs": 185,
+                                "WKTS": 8,
+                                "BBM": "3/16",
+                                "Ave": 23.12,
+                                "Econ": 6.16,
+                                "SR": 22.5,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

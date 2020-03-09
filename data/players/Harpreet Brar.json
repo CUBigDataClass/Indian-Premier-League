@@ -1,0 +1,81 @@
+{
+        "Harpreet Brar": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "2",
+                        "Runs": "20",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "16 September 1995",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 2,
+                                "No": 1,
+                                "Runs": 20,
+                                "HS": "20",
+                                "Ave": "-",
+                                "BF": 12,
+                                "SR": 166.66,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 2,
+                                "No": 1,
+                                "Runs": 20,
+                                "HS": "20",
+                                "Ave": "-",
+                                "BF": 12,
+                                "SR": 166.66,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 2,
+                                "Balls": 30,
+                                "Runs": 48,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": 9.6,
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 2,
+                                "Balls": 30,
+                                "Runs": 48,
+                                "WKTS": 0,
+                                "BBM": "0/24",
+                                "Ave": "-",
+                                "Econ": 9.6,
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

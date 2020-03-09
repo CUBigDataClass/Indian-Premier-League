@@ -1,0 +1,139 @@
+{
+        "Kane Richardson": {
+                "team_name": "royal-challengers-bangalore",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Australian",
+                        "Nickname": "",
+                        "DOB": "12 February 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 14,
+                                "No": 1,
+                                "Runs": 36,
+                                "HS": "26",
+                                "Ave": "12.00",
+                                "BF": 39,
+                                "SR": 92.3,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 1,
+                                "CT": 5,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2016",
+                                "Mat": 4,
+                                "No": 1,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": "-",
+                                "BF": 1,
+                                "SR": 100.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2014",
+                                "Mat": 7,
+                                "No": 0,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": "1.00",
+                                "BF": 2,
+                                "SR": 50.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2013",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 34,
+                                "HS": "26",
+                                "Ave": "17.00",
+                                "BF": 36,
+                                "SR": 94.44,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 14,
+                                "Balls": 317,
+                                "Runs": 443,
+                                "WKTS": 18,
+                                "BBM": "3/13",
+                                "Ave": 24.61,
+                                "Econ": 8.38,
+                                "SR": 17.61,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2016",
+                                "Mat": 4,
+                                "Balls": 84,
+                                "Runs": 136,
+                                "WKTS": 7,
+                                "BBM": "3/13",
+                                "Ave": 19.42,
+                                "Econ": 9.71,
+                                "SR": 12.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2014",
+                                "Mat": 7,
+                                "Balls": 162,
+                                "Runs": 206,
+                                "WKTS": 9,
+                                "BBM": "2/18",
+                                "Ave": 22.88,
+                                "Econ": 7.62,
+                                "SR": 18.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2013",
+                                "Mat": 3,
+                                "Balls": 71,
+                                "Runs": 101,
+                                "WKTS": 2,
+                                "BBM": "1/28",
+                                "Ave": 50.5,
+                                "Econ": 8.53,
+                                "SR": 35.5,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

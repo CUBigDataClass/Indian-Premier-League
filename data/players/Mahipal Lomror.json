@@ -1,0 +1,110 @@
+{
+        "Mahipal Lomror": {
+                "team_name": "rajasthan-royals",
+                "stats": {
+                        "Matches": "2",
+                        "Runs": "8",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "16 November 1999",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 4,
+                                "No": 1,
+                                "Runs": 28,
+                                "HS": 11,
+                                "Ave": 14.0,
+                                "BF": 24,
+                                "SR": 116.66,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 3,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 2,
+                                "No": 0,
+                                "Runs": 8,
+                                "HS": 8,
+                                "Ave": 8.0,
+                                "BF": 3,
+                                "SR": 266.66,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 2,
+                                "No": 1,
+                                "Runs": 20,
+                                "HS": 11,
+                                "Ave": 20.0,
+                                "BF": 21,
+                                "SR": 95.23,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 4,
+                                "Balls": 18,
+                                "Runs": 27,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "9.00",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 2,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 2,
+                                "Balls": 18,
+                                "Runs": 27,
+                                "WKTS": 0,
+                                "BBM": "0/8",
+                                "Ave": "-",
+                                "Econ": "9.00",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

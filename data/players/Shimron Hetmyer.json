@@ -1,0 +1,81 @@
+{
+        "Shimron Hetmyer": {
+                "team_name": "delhi-capitals",
+                "stats": {
+                        "Matches": "5",
+                        "Runs": "90",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "West Indian",
+                        "Nickname": "",
+                        "DOB": "26 December 1996",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 5,
+                                "No": 0,
+                                "Runs": 90,
+                                "HS": 75,
+                                "Ave": 18.0,
+                                "BF": 73,
+                                "SR": 123.28,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 4,
+                                "6s": 7,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 5,
+                                "No": 0,
+                                "Runs": 90,
+                                "HS": 75,
+                                "Ave": 18.0,
+                                "BF": 73,
+                                "SR": 123.28,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 4,
+                                "6s": 7,
+                                "CT": 3,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 5,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 5,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

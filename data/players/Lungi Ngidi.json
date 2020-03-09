@@ -1,0 +1,81 @@
+{
+        "Lungi Ngidi": {
+                "team_name": "chennai-super-kings",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "South African",
+                        "Nickname": "",
+                        "DOB": "29 March 1996",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 7,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 7,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 7,
+                                "Balls": 156,
+                                "Runs": 156,
+                                "WKTS": 11,
+                                "BBM": "4/10",
+                                "Ave": 14.18,
+                                "Econ": 6.0,
+                                "SR": 14.18,
+                                "4W": 1,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 7,
+                                "Balls": 156,
+                                "Runs": 156,
+                                "WKTS": 11,
+                                "BBM": "4/10",
+                                "Ave": 14.18,
+                                "Econ": 6.0,
+                                "SR": 14.18,
+                                "4W": 1,
+                                "5W": 0
+                        }
+                ]
+        }
+}

@@ -1,0 +1,81 @@
+{
+        "Riyan Parag": {
+                "team_name": "rajasthan-royals",
+                "stats": {
+                        "Matches": "7",
+                        "Runs": "160",
+                        "Wickets": "2"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "10 November 2001",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 7,
+                                "No": 0,
+                                "Runs": 160,
+                                "HS": 50,
+                                "Ave": 32.0,
+                                "BF": 126,
+                                "SR": 126.98,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 17,
+                                "6s": 5,
+                                "CT": 5,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 7,
+                                "No": 0,
+                                "Runs": 160,
+                                "HS": 50,
+                                "Ave": 32.0,
+                                "BF": 126,
+                                "SR": 126.98,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 17,
+                                "6s": 5,
+                                "CT": 5,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 7,
+                                "Balls": 84,
+                                "Runs": 121,
+                                "WKTS": 2,
+                                "BBM": "1/10",
+                                "Ave": 60.5,
+                                "Econ": 8.64,
+                                "SR": 42.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 7,
+                                "Balls": 84,
+                                "Runs": 121,
+                                "WKTS": 2,
+                                "BBM": "1/10",
+                                "Ave": 60.5,
+                                "Econ": 8.64,
+                                "SR": 42.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

@@ -1,0 +1,168 @@
+{
+        "Krunal Pandya": {
+                "team_name": "mumbai-indians",
+                "stats": {
+                        "Matches": "16",
+                        "Runs": "183",
+                        "Wickets": "12"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "24 March 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 55,
+                                "No": 14,
+                                "Runs": 891,
+                                "HS": "86",
+                                "Ave": 26.2,
+                                "BF": 610,
+                                "SR": 146.06,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 86,
+                                "6s": 35,
+                                "CT": 18,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 16,
+                                "No": 4,
+                                "Runs": 183,
+                                "HS": "42",
+                                "Ave": 16.63,
+                                "BF": 150,
+                                "SR": 122.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 18,
+                                "6s": 5,
+                                "CT": 5,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 14,
+                                "No": 3,
+                                "Runs": 228,
+                                "HS": "41",
+                                "Ave": 22.8,
+                                "BF": 157,
+                                "SR": 145.22,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 22,
+                                "6s": 10,
+                                "CT": 9,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 13,
+                                "No": 4,
+                                "Runs": 243,
+                                "HS": "47",
+                                "Ave": 34.71,
+                                "BF": 179,
+                                "SR": 135.75,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 24,
+                                "6s": 7,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2016",
+                                "Mat": 12,
+                                "No": 3,
+                                "Runs": 237,
+                                "HS": "86",
+                                "Ave": 39.5,
+                                "BF": 124,
+                                "SR": 191.12,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 22,
+                                "6s": 13,
+                                "CT": 2,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 55,
+                                "Balls": 944,
+                                "Runs": 1128,
+                                "WKTS": 40,
+                                "BBM": "3/14",
+                                "Ave": 28.2,
+                                "Econ": 7.16,
+                                "SR": 23.6,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 16,
+                                "Balls": 276,
+                                "Runs": 335,
+                                "WKTS": 12,
+                                "BBM": "3/34",
+                                "Ave": 27.91,
+                                "Econ": 7.28,
+                                "SR": 23.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 14,
+                                "Balls": 241,
+                                "Runs": 284,
+                                "WKTS": 12,
+                                "BBM": "3/28",
+                                "Ave": 23.66,
+                                "Econ": 7.07,
+                                "SR": 20.08,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 13,
+                                "Balls": 240,
+                                "Runs": 273,
+                                "WKTS": 10,
+                                "BBM": "3/14",
+                                "Ave": 27.3,
+                                "Econ": 6.82,
+                                "SR": 24.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2016",
+                                "Mat": 12,
+                                "Balls": 187,
+                                "Runs": 236,
+                                "WKTS": 6,
+                                "BBM": "2/15",
+                                "Ave": 39.33,
+                                "Econ": 7.57,
+                                "SR": 31.16,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

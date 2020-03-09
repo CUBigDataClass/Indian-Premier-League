@@ -1,0 +1,81 @@
+{
+        "Mitchell Santner": {
+                "team_name": "chennai-super-kings",
+                "stats": {
+                        "Matches": "4",
+                        "Runs": "32",
+                        "Wickets": "4"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "New Zealander",
+                        "Nickname": "",
+                        "DOB": "05 February 1992",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 4,
+                                "No": 1,
+                                "Runs": 32,
+                                "HS": 22,
+                                "Ave": 32.0,
+                                "BF": 23,
+                                "SR": 139.13,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 3,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 4,
+                                "No": 1,
+                                "Runs": 32,
+                                "HS": 22,
+                                "Ave": 32.0,
+                                "BF": 23,
+                                "SR": 139.13,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 3,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 4,
+                                "Balls": 84,
+                                "Runs": 94,
+                                "WKTS": 4,
+                                "BBM": "2/13",
+                                "Ave": 23.5,
+                                "Econ": 6.71,
+                                "SR": 21.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 4,
+                                "Balls": 84,
+                                "Runs": 94,
+                                "WKTS": 4,
+                                "BBM": "2/13",
+                                "Ave": 23.5,
+                                "Econ": 6.71,
+                                "SR": 21.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

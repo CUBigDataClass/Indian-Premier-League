@@ -1,0 +1,110 @@
+{
+        "Jofra Archer": {
+                "team_name": "rajasthan-royals",
+                "stats": {
+                        "Matches": "11",
+                        "Runs": "67",
+                        "Wickets": "11"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "01 April 1995",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 21,
+                                "No": 6,
+                                "Runs": 82,
+                                "HS": "27",
+                                "Ave": 11.71,
+                                "BF": 61,
+                                "SR": 134.42,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 6,
+                                "6s": 4,
+                                "CT": 4,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 11,
+                                "No": 3,
+                                "Runs": 67,
+                                "HS": "27",
+                                "Ave": 33.5,
+                                "BF": 40,
+                                "SR": 167.5,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 4,
+                                "6s": 4,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 10,
+                                "No": 3,
+                                "Runs": 15,
+                                "HS": "8",
+                                "Ave": 3.0,
+                                "BF": 21,
+                                "SR": 71.42,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 21,
+                                "Balls": 491,
+                                "Runs": 616,
+                                "WKTS": 26,
+                                "BBM": "3/15",
+                                "Ave": 23.69,
+                                "Econ": 7.52,
+                                "SR": 18.88,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 11,
+                                "Balls": 258,
+                                "Runs": 291,
+                                "WKTS": 11,
+                                "BBM": "3/15",
+                                "Ave": 26.45,
+                                "Econ": 6.76,
+                                "SR": 23.45,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 10,
+                                "Balls": 233,
+                                "Runs": 325,
+                                "WKTS": 15,
+                                "BBM": "3/22",
+                                "Ave": 21.66,
+                                "Econ": 8.36,
+                                "SR": 15.53,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

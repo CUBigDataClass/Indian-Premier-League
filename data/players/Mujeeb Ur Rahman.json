@@ -1,0 +1,110 @@
+{
+        "Mujeeb Ur Rahman": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "5",
+                        "Runs": "0",
+                        "Wickets": "3"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Afghan",
+                        "Nickname": "",
+                        "DOB": "28 March 2001",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 16,
+                                "No": 3,
+                                "Runs": 10,
+                                "HS": "10",
+                                "Ave": 5.0,
+                                "BF": 11,
+                                "SR": 90.9,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 0,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 5,
+                                "No": 2,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": 0.0,
+                                "BF": 4,
+                                "SR": 0.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 11,
+                                "No": 1,
+                                "Runs": 10,
+                                "HS": "10",
+                                "Ave": 10.0,
+                                "BF": 7,
+                                "SR": 142.85,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 16,
+                                "Balls": 362,
+                                "Runs": 480,
+                                "WKTS": 17,
+                                "BBM": "3/27",
+                                "Ave": 28.23,
+                                "Econ": 7.95,
+                                "SR": 21.29,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 5,
+                                "Balls": 114,
+                                "Runs": 191,
+                                "WKTS": 3,
+                                "BBM": "2/31",
+                                "Ave": 63.66,
+                                "Econ": 10.05,
+                                "SR": 38.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 11,
+                                "Balls": 248,
+                                "Runs": 289,
+                                "WKTS": 14,
+                                "BBM": "3/27",
+                                "Ave": 20.64,
+                                "Econ": 6.99,
+                                "SR": 17.71,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

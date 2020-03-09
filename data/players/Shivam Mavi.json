@@ -1,0 +1,81 @@
+{
+        "Shivam Mavi": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "26 November 1998",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 9,
+                                "No": 1,
+                                "Runs": 13,
+                                "HS": 7,
+                                "Ave": 4.33,
+                                "BF": 15,
+                                "SR": 86.66,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 9,
+                                "No": 1,
+                                "Runs": 13,
+                                "HS": 7,
+                                "Ave": 4.33,
+                                "BF": 15,
+                                "SR": 86.66,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 9,
+                                "Balls": 168,
+                                "Runs": 270,
+                                "WKTS": 5,
+                                "BBM": "1/14",
+                                "Ave": 54.0,
+                                "Econ": 9.64,
+                                "SR": 33.6,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 9,
+                                "Balls": 168,
+                                "Runs": 270,
+                                "WKTS": 5,
+                                "BBM": "1/14",
+                                "Ave": 54.0,
+                                "Econ": 9.64,
+                                "SR": 33.6,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

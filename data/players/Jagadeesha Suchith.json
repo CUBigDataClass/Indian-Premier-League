@@ -1,0 +1,139 @@
+{
+        "Jagadeesha Suchith": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "1",
+                        "Runs": "6",
+                        "Wickets": "2"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "16 January 1994",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 15,
+                                "No": 5,
+                                "Runs": 54,
+                                "HS": "34",
+                                "Ave": "27.00",
+                                "BF": 47,
+                                "SR": "114.89",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 4,
+                                "6s": 2,
+                                "CT": 8,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 6,
+                                "HS": "6",
+                                "Ave": "6.00",
+                                "BF": 15,
+                                "SR": "40.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2016",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2015",
+                                "Mat": 13,
+                                "No": 5,
+                                "Runs": 48,
+                                "HS": "34",
+                                "Ave": "48.00",
+                                "BF": 32,
+                                "SR": "150.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 4,
+                                "6s": 2,
+                                "CT": 8,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 15,
+                                "Balls": 270,
+                                "Runs": 396,
+                                "WKTS": 12,
+                                "BBM": "2/14",
+                                "Ave": "33.00",
+                                "Econ": 8.8,
+                                "SR": "22.50",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 1,
+                                "Balls": 24,
+                                "Runs": 28,
+                                "WKTS": 2,
+                                "BBM": "2/28",
+                                "Ave": "14.00",
+                                "Econ": 7.0,
+                                "SR": "12.00",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2016",
+                                "Mat": 1,
+                                "Balls": 12,
+                                "Runs": 31,
+                                "WKTS": 0,
+                                "BBM": "0/31",
+                                "Ave": "-",
+                                "Econ": 15.5,
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2015",
+                                "Mat": 13,
+                                "Balls": 234,
+                                "Runs": 337,
+                                "WKTS": 10,
+                                "BBM": "2/14",
+                                "Ave": "33.70",
+                                "Econ": 8.64,
+                                "SR": "23.40",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

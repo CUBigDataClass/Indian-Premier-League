@@ -1,0 +1,81 @@
+{
+        "Jimmy Neesham": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "New Zealander",
+                        "Nickname": "",
+                        "DOB": "17 September 1990",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 4,
+                                "No": 0,
+                                "Runs": 42,
+                                "HS": 22,
+                                "Ave": 14.0,
+                                "BF": 46,
+                                "SR": 91.3,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 3,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2014",
+                                "Mat": 4,
+                                "No": 0,
+                                "Runs": 42,
+                                "HS": 22,
+                                "Ave": 14.0,
+                                "BF": 46,
+                                "SR": 91.3,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 3,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 4,
+                                "Balls": 54,
+                                "Runs": 91,
+                                "WKTS": 1,
+                                "BBM": "1/29",
+                                "Ave": 91.0,
+                                "Econ": 10.11,
+                                "SR": 54.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2014",
+                                "Mat": 4,
+                                "Balls": 54,
+                                "Runs": 91,
+                                "WKTS": 1,
+                                "BBM": "1/29",
+                                "Ave": 91.0,
+                                "Econ": 10.11,
+                                "SR": 54.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

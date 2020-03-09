@@ -1,0 +1,81 @@
+{
+        "Siddhesh Lad": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "1",
+                        "Runs": "15",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "23 May 1992",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 15,
+                                "HS": 15,
+                                "Ave": 15.0,
+                                "BF": 13,
+                                "SR": 115.38,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 15,
+                                "HS": 15,
+                                "Ave": 15.0,
+                                "BF": 13,
+                                "SR": 115.38,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 1,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 1,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

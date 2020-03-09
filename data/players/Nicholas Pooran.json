@@ -1,0 +1,81 @@
+{
+        "Nicholas Pooran": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "7",
+                        "Runs": "168",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "West Indian",
+                        "Nickname": "",
+                        "DOB": "02 October 1995",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 7,
+                                "No": 0,
+                                "Runs": 168,
+                                "HS": 48,
+                                "Ave": 28.0,
+                                "BF": 107,
+                                "SR": 157.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 10,
+                                "6s": 14,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 7,
+                                "No": 0,
+                                "Runs": 168,
+                                "HS": 48,
+                                "Ave": 28.0,
+                                "BF": 107,
+                                "SR": 157.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 10,
+                                "6s": 14,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 7,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 7,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

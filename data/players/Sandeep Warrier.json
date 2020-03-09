@@ -1,0 +1,81 @@
+{
+        "Sandeep Warrier": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "3",
+                        "Runs": "0",
+                        "Wickets": "2"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "04 April 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 3,
+                                "Balls": 72,
+                                "Runs": 85,
+                                "WKTS": 2,
+                                "BBM": "2/31",
+                                "Ave": 42.5,
+                                "Econ": 7.08,
+                                "SR": 36.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 3,
+                                "Balls": 72,
+                                "Runs": 85,
+                                "WKTS": 2,
+                                "BBM": "2/31",
+                                "Ave": 42.5,
+                                "Econ": 7.08,
+                                "SR": 36.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

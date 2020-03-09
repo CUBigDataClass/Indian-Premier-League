@@ -1,0 +1,110 @@
+{
+        "Rahul Chahar": {
+                "team_name": "mumbai-indians",
+                "stats": {
+                        "Matches": "13",
+                        "Runs": "12",
+                        "Wickets": "13"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "04 August 1999",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 16,
+                                "No": 3,
+                                "Runs": 15,
+                                "HS": "10",
+                                "Ave": "7.50",
+                                "BF": 13,
+                                "SR": 115.38,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 0,
+                                "CT": 4,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 13,
+                                "No": 2,
+                                "Runs": 12,
+                                "HS": "10",
+                                "Ave": "6.00",
+                                "BF": 11,
+                                "SR": 109.09,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 3,
+                                "No": 1,
+                                "Runs": 3,
+                                "HS": "3",
+                                "Ave": "-",
+                                "BF": 2,
+                                "SR": 150.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 16,
+                                "Balls": 324,
+                                "Runs": 366,
+                                "WKTS": 15,
+                                "BBM": "3/19",
+                                "Ave": 24.4,
+                                "Econ": 6.77,
+                                "SR": 21.6,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 13,
+                                "Balls": 282,
+                                "Runs": 308,
+                                "WKTS": 13,
+                                "BBM": "3/19",
+                                "Ave": 23.69,
+                                "Econ": 6.55,
+                                "SR": 21.69,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 3,
+                                "Balls": 42,
+                                "Runs": 58,
+                                "WKTS": 2,
+                                "BBM": "1/26",
+                                "Ave": 29.0,
+                                "Econ": 8.28,
+                                "SR": 21.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

@@ -1,0 +1,81 @@
+{
+        "Sam Curran": {
+                "team_name": "chennai-super-kings",
+                "stats": {
+                        "Matches": "9",
+                        "Runs": "95",
+                        "Wickets": "10"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "03 June 1998",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 9,
+                                "No": 4,
+                                "Runs": 95,
+                                "HS": "55",
+                                "Ave": 23.75,
+                                "BF": 55,
+                                "SR": 172.72,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 13,
+                                "6s": 3,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 9,
+                                "No": 4,
+                                "Runs": 95,
+                                "HS": "55",
+                                "Ave": 23.75,
+                                "BF": 55,
+                                "SR": 172.72,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 13,
+                                "6s": 3,
+                                "CT": 2,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 9,
+                                "Balls": 198,
+                                "Runs": 323,
+                                "WKTS": 10,
+                                "BBM": "4/11",
+                                "Ave": 32.3,
+                                "Econ": 9.78,
+                                "SR": 19.8,
+                                "4W": 1,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 9,
+                                "Balls": 198,
+                                "Runs": 323,
+                                "WKTS": 10,
+                                "BBM": "4/11",
+                                "Ave": 32.3,
+                                "Econ": 9.78,
+                                "SR": 19.8,
+                                "4W": 1,
+                                "5W": 0
+                        }
+                ]
+        }
+}

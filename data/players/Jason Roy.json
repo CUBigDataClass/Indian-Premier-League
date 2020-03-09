@@ -1,0 +1,110 @@
+{
+        "Jason Roy": {
+                "team_name": "delhi-capitals",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "21 July 1990",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 8,
+                                "No": 2,
+                                "Runs": 179,
+                                "HS": "91",
+                                "Ave": 29.83,
+                                "BF": 134,
+                                "SR": 133.58,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 18,
+                                "6s": 8,
+                                "CT": 5,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 5,
+                                "No": 1,
+                                "Runs": 120,
+                                "HS": "91",
+                                "Ave": 30.0,
+                                "BF": 94,
+                                "SR": 127.65,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 9,
+                                "6s": 7,
+                                "CT": 4,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 3,
+                                "No": 1,
+                                "Runs": 59,
+                                "HS": "31",
+                                "Ave": 29.5,
+                                "BF": 40,
+                                "SR": 147.5,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 9,
+                                "6s": 1,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 8,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 5,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 3,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

@@ -1,0 +1,110 @@
+{
+        "Krishnappa Gowtham": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "7",
+                        "Runs": "18",
+                        "Wickets": "1"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "20 October 1988",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 22,
+                                "No": 5,
+                                "Runs": 144,
+                                "HS": "33",
+                                "Ave": 12.0,
+                                "BF": 83,
+                                "SR": 173.49,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 10,
+                                "6s": 10,
+                                "CT": 10,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 7,
+                                "No": 1,
+                                "Runs": 18,
+                                "HS": "9",
+                                "Ave": 6.0,
+                                "BF": 19,
+                                "SR": 94.73,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 15,
+                                "No": 4,
+                                "Runs": 126,
+                                "HS": "33",
+                                "Ave": 14.0,
+                                "BF": 64,
+                                "SR": 196.87,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 9,
+                                "6s": 9,
+                                "CT": 10,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 22,
+                                "Balls": 360,
+                                "Runs": 478,
+                                "WKTS": 12,
+                                "BBM": "2/12",
+                                "Ave": 39.83,
+                                "Econ": 7.96,
+                                "SR": 30.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 7,
+                                "Balls": 120,
+                                "Runs": 166,
+                                "WKTS": 1,
+                                "BBM": "1/32",
+                                "Ave": 166.0,
+                                "Econ": 8.3,
+                                "SR": 120.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 15,
+                                "Balls": 240,
+                                "Runs": 312,
+                                "WKTS": 11,
+                                "BBM": "2/12",
+                                "Ave": 28.36,
+                                "Econ": 7.8,
+                                "SR": 21.81,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

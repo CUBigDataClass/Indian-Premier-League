@@ -1,0 +1,81 @@
+{
+        "Varun Chakravarthy": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "1",
+                        "Runs": "0",
+                        "Wickets": "1"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "29 August 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 1,
+                                "Balls": 18,
+                                "Runs": 35,
+                                "WKTS": 1,
+                                "BBM": "1/35",
+                                "Ave": 35.0,
+                                "Econ": 11.66,
+                                "SR": 18.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 1,
+                                "Balls": 18,
+                                "Runs": 35,
+                                "WKTS": 1,
+                                "BBM": "1/35",
+                                "Ave": 35.0,
+                                "Econ": 11.66,
+                                "SR": 18.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

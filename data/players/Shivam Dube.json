@@ -1,0 +1,81 @@
+{
+        "Shivam Dube": {
+                "team_name": "royal-challengers-bangalore",
+                "stats": {
+                        "Matches": "4",
+                        "Runs": "40",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "26 June 1993",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 4,
+                                "No": 1,
+                                "Runs": 40,
+                                "HS": 24,
+                                "Ave": 13.33,
+                                "BF": 33,
+                                "SR": 121.21,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 3,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 4,
+                                "No": 1,
+                                "Runs": 40,
+                                "HS": 24,
+                                "Ave": 13.33,
+                                "BF": 33,
+                                "SR": 121.21,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 3,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 4,
+                                "Balls": 10,
+                                "Runs": 8,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": 4.8,
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 4,
+                                "Balls": 10,
+                                "Runs": 8,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": 4.8,
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

@@ -1,0 +1,110 @@
+{
+        "Mayank Markande": {
+                "team_name": "rajasthan-royals",
+                "stats": {
+                        "Matches": "3",
+                        "Runs": "6",
+                        "Wickets": "1"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "11 November 1997",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 17,
+                                "No": 5,
+                                "Runs": 27,
+                                "HS": "7",
+                                "Ave": 9.0,
+                                "BF": 29,
+                                "SR": 93.1,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 3,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 3,
+                                "No": 1,
+                                "Runs": 6,
+                                "HS": "6",
+                                "Ave": 6.0,
+                                "BF": 5,
+                                "SR": 120.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 14,
+                                "No": 4,
+                                "Runs": 21,
+                                "HS": "7",
+                                "Ave": 10.5,
+                                "BF": 24,
+                                "SR": 87.5,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 17,
+                                "Balls": 300,
+                                "Runs": 427,
+                                "WKTS": 16,
+                                "BBM": "4/23",
+                                "Ave": 26.68,
+                                "Econ": 8.54,
+                                "SR": 18.75,
+                                "4W": 1,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 3,
+                                "Balls": 36,
+                                "Runs": 59,
+                                "WKTS": 1,
+                                "BBM": "1/23",
+                                "Ave": 59.0,
+                                "Econ": 9.83,
+                                "SR": 36.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 14,
+                                "Balls": 264,
+                                "Runs": 368,
+                                "WKTS": 15,
+                                "BBM": "4/23",
+                                "Ave": 24.53,
+                                "Econ": 8.36,
+                                "SR": 17.6,
+                                "4W": 1,
+                                "5W": 0
+                        }
+                ]
+        }
+}

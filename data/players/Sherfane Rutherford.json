@@ -1,0 +1,81 @@
+{
+        "Sherfane Rutherford": {
+                "team_name": "mumbai-indians",
+                "stats": {
+                        "Matches": "7",
+                        "Runs": "73",
+                        "Wickets": "1"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "West Indian",
+                        "Nickname": "",
+                        "DOB": "15 August 1998",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 7,
+                                "No": 2,
+                                "Runs": 73,
+                                "HS": "28",
+                                "Ave": 14.6,
+                                "BF": 54,
+                                "SR": 135.18,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 7,
+                                "CT": 5,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 7,
+                                "No": 2,
+                                "Runs": 73,
+                                "HS": "28",
+                                "Ave": 14.6,
+                                "BF": 54,
+                                "SR": 135.18,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 7,
+                                "CT": 5,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 7,
+                                "Balls": 41,
+                                "Runs": 59,
+                                "WKTS": 1,
+                                "BBM": "1/6",
+                                "Ave": 59.0,
+                                "Econ": 8.63,
+                                "SR": 41.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 7,
+                                "Balls": 41,
+                                "Runs": 59,
+                                "WKTS": 1,
+                                "BBM": "1/6",
+                                "Ave": 59.0,
+                                "Econ": 8.63,
+                                "SR": 41.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

@@ -1,0 +1,110 @@
+{
+        "Abhishek Sharma": {
+                "team_name": "sunrisers-hyderabad",
+                "stats": {
+                        "Matches": "3",
+                        "Runs": "9",
+                        "Wickets": "1"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Left-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "04 September 2000",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 6,
+                                "No": 3,
+                                "Runs": 72,
+                                "HS": "46",
+                                "Ave": 24.0,
+                                "BF": 42,
+                                "SR": 171.42,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 4,
+                                "6s": 5,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 3,
+                                "No": 1,
+                                "Runs": 9,
+                                "HS": "5",
+                                "Ave": 4.5,
+                                "BF": 9,
+                                "SR": 100.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 3,
+                                "No": 2,
+                                "Runs": 63,
+                                "HS": "46",
+                                "Ave": 63.0,
+                                "BF": 33,
+                                "SR": 190.9,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 3,
+                                "6s": 5,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 6,
+                                "Balls": 12,
+                                "Runs": 21,
+                                "WKTS": 1,
+                                "BBM": "1/10",
+                                "Ave": "21.00",
+                                "Econ": "10.50",
+                                "SR": "12.00",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 3,
+                                "Balls": 12,
+                                "Runs": 21,
+                                "WKTS": 1,
+                                "BBM": "1/10",
+                                "Ave": "21.00",
+                                "Econ": "10.50",
+                                "SR": "12.00",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 3,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

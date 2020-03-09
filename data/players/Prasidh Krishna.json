@@ -1,0 +1,110 @@
+{
+        "Prasidh Krishna": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "11",
+                        "Runs": "0",
+                        "Wickets": "4"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "19 February 1996",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 18,
+                                "No": 2,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": "1.00",
+                                "BF": 7,
+                                "SR": 14.28,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 11,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "0.00",
+                                "BF": 2,
+                                "SR": 0.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 7,
+                                "No": 2,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": "-",
+                                "BF": 5,
+                                "SR": 20.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 18,
+                                "Balls": 410,
+                                "Runs": 637,
+                                "WKTS": 14,
+                                "BBM": "4/30",
+                                "Ave": 45.5,
+                                "Econ": 9.32,
+                                "SR": 29.28,
+                                "4W": 1,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 11,
+                                "Balls": 242,
+                                "Runs": 377,
+                                "WKTS": 4,
+                                "BBM": "1/22",
+                                "Ave": 94.25,
+                                "Econ": 9.34,
+                                "SR": 60.5,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 7,
+                                "Balls": 168,
+                                "Runs": 260,
+                                "WKTS": 10,
+                                "BBM": "4/30",
+                                "Ave": 26.0,
+                                "Econ": 9.28,
+                                "SR": 16.8,
+                                "4W": 1,
+                                "5W": 0
+                        }
+                ]
+        }
+}

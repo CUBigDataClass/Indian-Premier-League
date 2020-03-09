@@ -1,0 +1,139 @@
+{
+        "Pat Cummins": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Australian",
+                        "Nickname": "",
+                        "DOB": "08 May 1993",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 16,
+                                "No": 4,
+                                "Runs": 77,
+                                "HS": "24",
+                                "Ave": "12.83",
+                                "BF": 55,
+                                "SR": "140.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 5,
+                                "6s": 4,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 12,
+                                "No": 4,
+                                "Runs": 77,
+                                "HS": "24",
+                                "Ave": "15.40",
+                                "BF": 53,
+                                "SR": "145.28",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 5,
+                                "6s": 4,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2015",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "0.00",
+                                "BF": 2,
+                                "SR": "0.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2014",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 16,
+                                "Balls": 361,
+                                "Runs": 499,
+                                "WKTS": 17,
+                                "BBM": "2/20",
+                                "Ave": 29.35,
+                                "Econ": 8.29,
+                                "SR": 21.23,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 12,
+                                "Balls": 277,
+                                "Runs": 373,
+                                "WKTS": 15,
+                                "BBM": "2/20",
+                                "Ave": 24.86,
+                                "Econ": 8.07,
+                                "SR": 18.46,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2015",
+                                "Mat": 3,
+                                "Balls": 60,
+                                "Runs": 97,
+                                "WKTS": 1,
+                                "BBM": "1/54",
+                                "Ave": 97.0,
+                                "Econ": 9.7,
+                                "SR": 60.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2014",
+                                "Mat": 1,
+                                "Balls": 24,
+                                "Runs": 29,
+                                "WKTS": 1,
+                                "BBM": "1/29",
+                                "Ave": 29.0,
+                                "Econ": 7.25,
+                                "SR": 24.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

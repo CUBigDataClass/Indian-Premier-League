@@ -1,0 +1,168 @@
+{
+        "Mitchell Marsh": {
+                "team_name": "sunrisers-hyderabad",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Australian",
+                        "Nickname": "",
+                        "DOB": "20 October 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 20,
+                                "No": 2,
+                                "Runs": 225,
+                                "HS": 38,
+                                "Ave": 18.75,
+                                "BF": 196,
+                                "SR": 114.79,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 9,
+                                "6s": 14,
+                                "CT": 7,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2016",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 7,
+                                "HS": 7,
+                                "Ave": 7.0,
+                                "BF": 11,
+                                "SR": 63.63,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2013",
+                                "Mat": 9,
+                                "No": 1,
+                                "Runs": 140,
+                                "HS": 38,
+                                "Ave": 20.0,
+                                "BF": 106,
+                                "SR": 132.07,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 6,
+                                "6s": 10,
+                                "CT": 7,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2011",
+                                "Mat": 5,
+                                "No": 1,
+                                "Runs": 50,
+                                "HS": 37,
+                                "Ave": 25.0,
+                                "BF": 49,
+                                "SR": 102.04,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 2,
+                                "6s": 3,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2010",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 28,
+                                "HS": 15,
+                                "Ave": 14.0,
+                                "BF": 30,
+                                "SR": 93.33,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 20,
+                                "Balls": 315,
+                                "Runs": 414,
+                                "WKTS": 20,
+                                "BBM": "4/25",
+                                "Ave": 20.7,
+                                "Econ": 7.88,
+                                "SR": 15.75,
+                                "4W": 1,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2016",
+                                "Mat": 3,
+                                "Balls": 54,
+                                "Runs": 45,
+                                "WKTS": 4,
+                                "BBM": "2/14",
+                                "Ave": 11.25,
+                                "Econ": 5.0,
+                                "SR": 13.5,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2013",
+                                "Mat": 9,
+                                "Balls": 116,
+                                "Runs": 182,
+                                "WKTS": 7,
+                                "BBM": "2/7",
+                                "Ave": 26.0,
+                                "Econ": 9.41,
+                                "SR": 16.57,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2011",
+                                "Mat": 5,
+                                "Balls": 85,
+                                "Runs": 99,
+                                "WKTS": 7,
+                                "BBM": "4/25",
+                                "Ave": 14.14,
+                                "Econ": 6.98,
+                                "SR": 12.14,
+                                "4W": 1,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2010",
+                                "Mat": 3,
+                                "Balls": 60,
+                                "Runs": 88,
+                                "WKTS": 2,
+                                "BBM": "1/19",
+                                "Ave": 44.0,
+                                "Econ": 8.8,
+                                "SR": 30.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

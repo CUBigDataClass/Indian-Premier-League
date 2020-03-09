@@ -1,0 +1,81 @@
+{
+        "Simran Singh": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "1",
+                        "Runs": "16",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "10 August 2000",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 16,
+                                "HS": 16,
+                                "Ave": 16.0,
+                                "BF": 17,
+                                "SR": 94.11,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 16,
+                                "HS": 16,
+                                "Ave": 16.0,
+                                "BF": 17,
+                                "SR": 94.11,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 1,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 1,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

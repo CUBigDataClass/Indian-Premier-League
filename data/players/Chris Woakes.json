@@ -1,0 +1,110 @@
+{
+        "Chris Woakes": {
+                "team_name": "delhi-capitals",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "02 March 1989",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 18,
+                                "No": 5,
+                                "Runs": 63,
+                                "HS": 18,
+                                "Ave": 10.5,
+                                "BF": 66,
+                                "SR": 95.45,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 5,
+                                "6s": 2,
+                                "CT": 7,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 5,
+                                "No": 2,
+                                "Runs": 17,
+                                "HS": 11,
+                                "Ave": 8.5,
+                                "BF": 19,
+                                "SR": 89.47,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 1,
+                                "6s": 1,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 13,
+                                "No": 3,
+                                "Runs": 46,
+                                "HS": 18,
+                                "Ave": 11.5,
+                                "BF": 47,
+                                "SR": 97.87,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 4,
+                                "6s": 1,
+                                "CT": 6,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 18,
+                                "Balls": 374,
+                                "Runs": 576,
+                                "WKTS": 25,
+                                "BBM": "3/6",
+                                "Ave": 23.04,
+                                "Econ": 9.24,
+                                "SR": 14.96,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 5,
+                                "Balls": 110,
+                                "Runs": 190,
+                                "WKTS": 8,
+                                "BBM": "3/36",
+                                "Ave": 23.75,
+                                "Econ": 10.36,
+                                "SR": 13.75,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 13,
+                                "Balls": 264,
+                                "Runs": 386,
+                                "WKTS": 17,
+                                "BBM": "3/6",
+                                "Ave": 22.7,
+                                "Econ": 8.77,
+                                "SR": 15.52,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

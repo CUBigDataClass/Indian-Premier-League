@@ -1,0 +1,81 @@
+{
+        "KM Asif": {
+                "team_name": "chennai-super-kings",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "24 July 1993",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 2,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 2,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 2,
+                                "Balls": 36,
+                                "Runs": 75,
+                                "WKTS": 3,
+                                "BBM": "2/43",
+                                "Ave": 25.0,
+                                "Econ": 12.5,
+                                "SR": 12.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 2,
+                                "Balls": 36,
+                                "Runs": 75,
+                                "WKTS": 3,
+                                "BBM": "2/43",
+                                "Ave": 25.0,
+                                "Econ": 12.5,
+                                "SR": 12.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

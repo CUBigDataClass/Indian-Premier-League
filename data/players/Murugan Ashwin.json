@@ -1,0 +1,139 @@
+{
+        "Murugan Ashwin": {
+                "team_name": "kings-xi-punjab",
+                "stats": {
+                        "Matches": "10",
+                        "Runs": "3",
+                        "Wickets": "5"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "08 September 1990",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 22,
+                                "No": 2,
+                                "Runs": 4,
+                                "HS": "1",
+                                "Ave": 1.33,
+                                "BF": 8,
+                                "SR": 50.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 10,
+                                "No": 2,
+                                "Runs": 3,
+                                "HS": "1",
+                                "Ave": 3.0,
+                                "BF": 5,
+                                "SR": 60.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 3,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 2,
+                                "No": 0,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": 1.0,
+                                "BF": 2,
+                                "SR": 50.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2016",
+                                "Mat": 10,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": 0.0,
+                                "BF": 1,
+                                "SR": 0.0,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 22,
+                                "Balls": 417,
+                                "Runs": 549,
+                                "WKTS": 15,
+                                "BBM": "3/36",
+                                "Ave": 36.6,
+                                "Econ": 7.89,
+                                "SR": 27.8,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 10,
+                                "Balls": 204,
+                                "Runs": 255,
+                                "WKTS": 5,
+                                "BBM": "2/25",
+                                "Ave": 51.0,
+                                "Econ": 7.5,
+                                "SR": 40.8,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 2,
+                                "Balls": 42,
+                                "Runs": 53,
+                                "WKTS": 3,
+                                "BBM": "2/36",
+                                "Ave": 17.66,
+                                "Econ": 7.57,
+                                "SR": 14.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2016",
+                                "Mat": 10,
+                                "Balls": 171,
+                                "Runs": 241,
+                                "WKTS": 7,
+                                "BBM": "3/36",
+                                "Ave": 34.42,
+                                "Econ": 8.45,
+                                "SR": 24.42,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

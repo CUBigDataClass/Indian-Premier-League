@@ -1,0 +1,110 @@
+{
+        "Sandeep Lamichhane": {
+                "team_name": "delhi-capitals",
+                "stats": {
+                        "Matches": "6",
+                        "Runs": "0",
+                        "Wickets": "8"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Nepalese",
+                        "Nickname": "",
+                        "DOB": "14 August 2000",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 9,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "0.00",
+                                "BF": 1,
+                                "SR": "0.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 6,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "0.00",
+                                "BF": 1,
+                                "SR": "0.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 3,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 9,
+                                "Balls": 210,
+                                "Runs": 292,
+                                "WKTS": 13,
+                                "BBM": "3/36",
+                                "Ave": 22.46,
+                                "Econ": 8.34,
+                                "SR": 16.15,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 6,
+                                "Balls": 138,
+                                "Runs": 210,
+                                "WKTS": 8,
+                                "BBM": "3/40",
+                                "Ave": 26.25,
+                                "Econ": 9.13,
+                                "SR": 17.25,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 3,
+                                "Balls": 72,
+                                "Runs": 82,
+                                "WKTS": 5,
+                                "BBM": "3/36",
+                                "Ave": 16.4,
+                                "Econ": 6.83,
+                                "SR": 14.4,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

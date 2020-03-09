@@ -1,0 +1,81 @@
+{
+        "Tom Curran": {
+                "team_name": "rajasthan-royals",
+                "stats": {
+                        "Matches": "0",
+                        "Runs": "0",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "12 March 1995",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 5,
+                                "No": 1,
+                                "Runs": 23,
+                                "HS": 18,
+                                "Ave": 7.66,
+                                "BF": 28,
+                                "SR": 82.14,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 3,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 5,
+                                "No": 1,
+                                "Runs": 23,
+                                "HS": 18,
+                                "Ave": 7.66,
+                                "BF": 28,
+                                "SR": 82.14,
+                                "100": 0,
+                                "50": 0,
+                                "4s": 3,
+                                "6s": 0,
+                                "CT": 1,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 5,
+                                "Balls": 61,
+                                "Runs": 118,
+                                "WKTS": 6,
+                                "BBM": "2/19",
+                                "Ave": 19.66,
+                                "Econ": 11.6,
+                                "SR": 10.16,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 5,
+                                "Balls": 61,
+                                "Runs": 118,
+                                "WKTS": 6,
+                                "BBM": "2/19",
+                                "Ave": 19.66,
+                                "Econ": 11.6,
+                                "SR": 10.16,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

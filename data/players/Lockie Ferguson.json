@@ -1,0 +1,110 @@
+{
+        "Lockie Ferguson": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "5",
+                        "Runs": "0",
+                        "Wickets": "2"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "New Zealander",
+                        "Nickname": "",
+                        "DOB": "13 June 1991",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 9,
+                                "No": 1,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": "-",
+                                "BF": 1,
+                                "SR": "100.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 5,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2017",
+                                "Mat": 4,
+                                "No": 1,
+                                "Runs": 1,
+                                "HS": "1",
+                                "Ave": "-",
+                                "BF": 1,
+                                "SR": "100.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 9,
+                                "Balls": 180,
+                                "Runs": 276,
+                                "WKTS": 5,
+                                "BBM": "2/7",
+                                "Ave": 55.2,
+                                "Econ": 9.2,
+                                "SR": 36.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 5,
+                                "Balls": 102,
+                                "Runs": 183,
+                                "WKTS": 2,
+                                "BBM": "1/38",
+                                "Ave": 91.5,
+                                "Econ": 10.76,
+                                "SR": 51.0,
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2017",
+                                "Mat": 4,
+                                "Balls": 78,
+                                "Runs": 93,
+                                "WKTS": 3,
+                                "BBM": "2/7",
+                                "Ave": 31.0,
+                                "Econ": 7.15,
+                                "SR": 26.0,
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

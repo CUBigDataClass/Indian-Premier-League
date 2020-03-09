@@ -1,0 +1,110 @@
+{
+        "Khaleel Ahmed": {
+                "team_name": "sunrisers-hyderabad",
+                "stats": {
+                        "Matches": "9",
+                        "Runs": "0",
+                        "Wickets": "19"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "05 December 1997",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 10,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "0.00",
+                                "BF": 1,
+                                "SR": "0.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 9,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "0.00",
+                                "BF": 1,
+                                "SR": "0.00",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 1,
+                                "No": 0,
+                                "Runs": 0,
+                                "HS": "0",
+                                "Ave": "-",
+                                "BF": 0,
+                                "SR": "-",
+                                "100": 0,
+                                "50": 0,
+                                "4s": 0,
+                                "6s": 0,
+                                "CT": 0,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 10,
+                                "Balls": 227,
+                                "Runs": 325,
+                                "WKTS": 19,
+                                "BBM": "3/30",
+                                "Ave": "17.10",
+                                "Econ": 8.59,
+                                "SR": "11.94",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 9,
+                                "Balls": 209,
+                                "Runs": 287,
+                                "WKTS": 19,
+                                "BBM": "3/30",
+                                "Ave": "15.10",
+                                "Econ": 8.23,
+                                "SR": "11.00",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 1,
+                                "Balls": 18,
+                                "Runs": 38,
+                                "WKTS": 0,
+                                "BBM": "0/38",
+                                "Ave": "-",
+                                "Econ": 12.66,
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

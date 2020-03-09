@@ -1,0 +1,110 @@
+{
+        "Shubman Gill": {
+                "team_name": "kolkata-knight-riders",
+                "stats": {
+                        "Matches": "14",
+                        "Runs": "296",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "08 September 1999",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 27,
+                                "No": 9,
+                                "Runs": 499,
+                                "HS": "76",
+                                "Ave": 33.26,
+                                "BF": 377,
+                                "SR": 132.36,
+                                "100": 0,
+                                "50": 4,
+                                "4s": 43,
+                                "6s": 15,
+                                "CT": 10,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 14,
+                                "No": 4,
+                                "Runs": 296,
+                                "HS": "76",
+                                "Ave": 32.88,
+                                "BF": 238,
+                                "SR": 124.36,
+                                "100": 0,
+                                "50": 3,
+                                "4s": 21,
+                                "6s": 10,
+                                "CT": 7,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 13,
+                                "No": 5,
+                                "Runs": 203,
+                                "HS": "57",
+                                "Ave": 33.83,
+                                "BF": 139,
+                                "SR": 146.04,
+                                "100": 0,
+                                "50": 1,
+                                "4s": 22,
+                                "6s": 5,
+                                "CT": 3,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 27,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 14,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 13,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

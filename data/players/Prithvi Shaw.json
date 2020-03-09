@@ -1,0 +1,110 @@
+{
+        "Prithvi Shaw": {
+                "team_name": "delhi-capitals",
+                "stats": {
+                        "Matches": "16",
+                        "Runs": "353",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "Indian",
+                        "Nickname": "",
+                        "DOB": "09 November 1999",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 25,
+                                "No": 0,
+                                "Runs": 598,
+                                "HS": 99,
+                                "Ave": 23.92,
+                                "BF": 424,
+                                "SR": 141.03,
+                                "100": 0,
+                                "50": 4,
+                                "4s": 72,
+                                "6s": 19,
+                                "CT": 6,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 16,
+                                "No": 0,
+                                "Runs": 353,
+                                "HS": 99,
+                                "Ave": 22.06,
+                                "BF": 264,
+                                "SR": 133.71,
+                                "100": 0,
+                                "50": 2,
+                                "4s": 45,
+                                "6s": 9,
+                                "CT": 2,
+                                "ST": 0
+                        },
+                        {
+                                "Batting and Fielding": "2018",
+                                "Mat": 9,
+                                "No": 0,
+                                "Runs": 245,
+                                "HS": 65,
+                                "Ave": 27.22,
+                                "BF": 160,
+                                "SR": 153.12,
+                                "100": 0,
+                                "50": 2,
+                                "4s": 27,
+                                "6s": 10,
+                                "CT": 4,
+                                "ST": 0
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 25,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 16,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2018",
+                                "Mat": 9,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}

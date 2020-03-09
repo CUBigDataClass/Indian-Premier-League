@@ -1,0 +1,81 @@
+{
+        "Jonny Bairstow": {
+                "team_name": "sunrisers-hyderabad",
+                "stats": {
+                        "Matches": "10",
+                        "Runs": "445",
+                        "Wickets": "0"
+                },
+                "details": {
+                        "Role": "",
+                        "Batting Style": "Right-handed",
+                        "Bowling Style": "",
+                        "Nationality": "English",
+                        "Nickname": "",
+                        "DOB": "26 September 1989",
+                        "IPL Debut": ""
+                },
+                "Batting and Fielding": [
+                        {
+                                "Batting and Fielding": "Career",
+                                "Mat": 10,
+                                "No": 2,
+                                "Runs": 445,
+                                "HS": 114,
+                                "Ave": 55.62,
+                                "BF": 283,
+                                "SR": 157.24,
+                                "100": 1,
+                                "50": 2,
+                                "4s": 48,
+                                "6s": 18,
+                                "CT": 9,
+                                "ST": 2
+                        },
+                        {
+                                "Batting and Fielding": "2019",
+                                "Mat": 10,
+                                "No": 2,
+                                "Runs": 445,
+                                "HS": 114,
+                                "Ave": 55.62,
+                                "BF": 283,
+                                "SR": 157.24,
+                                "100": 1,
+                                "50": 2,
+                                "4s": 48,
+                                "6s": 18,
+                                "CT": 9,
+                                "ST": 2
+                        }
+                ],
+                "Bowling": [
+                        {
+                                "Bowling": "Career",
+                                "Mat": 10,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        },
+                        {
+                                "Bowling": "2019",
+                                "Mat": 10,
+                                "Balls": 0,
+                                "Runs": 0,
+                                "WKTS": 0,
+                                "BBM": "0/0",
+                                "Ave": "-",
+                                "Econ": "-",
+                                "SR": "-",
+                                "4W": 0,
+                                "5W": 0
+                        }
+                ]
+        }
+}
