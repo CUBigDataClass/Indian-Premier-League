@@ -1,0 +1,6 @@
+{
+	"es_url": "http://elasticsearch-976493144.ap-south-1.elb.amazonaws.com",
+	"es_deliveries_index" : "deliveries",
+	"es_matches_index" : "matches",
+	"es_players_index" : "players"
+}
