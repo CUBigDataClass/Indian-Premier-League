@@ -2,5 +2,8 @@
 	"es_url": "http://52.54.250.17:3718",
 	"es_deliveries_index" : "deliveries",
 	"es_matches_index" : "matches",
-	"es_players_index" : "players"
+	"es_players_index" : "players",
+	"es_request_headers": {
+		"Content-Type": "application/json"
+	}
 }
