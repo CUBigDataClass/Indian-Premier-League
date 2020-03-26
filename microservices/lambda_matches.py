@@ -1,25 +1,31 @@
 import json
+import boto3
+from botocore.vendored import requests
+
+s3 = boto3.client('s3')
+response = s3.get_object(Bucket='bda-configurations', Key='es-config.json')
+es_config = (json.loads(response['Body'].read()))
+
+def insert_into_es(each_doc,_id):
+    insert_request = requests.post(url="{}/{}/_doc/{}".format(es_config['es_url'],es_config['es_matches_index'],_id),
+                                       data=json.dumps(each_doc),
+                                       headers=es_config['es_request_headers']).json()
+    print(insert_request)
 
 def lambda_handler(event, context):
-    import json
-    import requests
-    from elasticsearch import Elasticsearch
-    es = Elasticsearch(['localhost'],port=1956)
-    newRecord=event['Records'][0]['dynamodb']['NewImage']
-    new_dict=dict()
-    for key in newRecord.keys():
-        recordValue=newRecord[key]
-        for key1 in recordValue.keys():
-            if key1=="N":
-                new_dict[key]=int(recordValue[key1])
-            else:
-                new_dict[key]=recordValue[key1]
-    eventJson=json.dumps(new_dict)
-    print(eventJson)
+    for each_ in event['Records'] :
+        action = each_['eventName']
+        
+        if (action == 'INSERT' or action == 'MODIFY'):
     
-    
-    # TODO implement
-    return {
-        'statusCode': 200,
-        'body': json.dumps('Hello from Lambda!')
-    }
+            currentEvent = each_['dynamodb']['NewImage']
+            for key, valueDict in currentEvent.items():
+                for dataType, finalValue in valueDict.items():
+                    if dataType == 'N':
+                        currentEvent[key] = float(finalValue)
+                    elif dataType == 'S':
+                        currentEvent[key] = str(finalValue)
+        
+            print(currentEvent)
+            insert_into_es(currentEvent, currentEvent['id'])
+
