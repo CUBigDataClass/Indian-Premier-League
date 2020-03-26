@@ -135,11 +135,6 @@ with open('../Indian-Premier-League/data/players/player_birth_info.json', 'w') a
 # print(json_data)
 
 
-dynamo_db = boto3.resource('dynamodb',
-                           aws_access_key_id='ASIAZDXTUI3TRVSZYJ5A',
-                           aws_secret_access_key='SSk21oDcRT52RIFfLEkdqGPr+ke9rqGbXQCVOAI2',
-                           aws_session_token= 'FwoGZXIvYXdzEJb//////////wEaDEiIcCfCuAxi29O0+SLEAZilUcEEXvqNxvFxQjiGsliWrfM06coGm7xvhhd34YmhCClzqszcBaYxVFJ+L4X6OfdbE7mU82I93jItqQaS3WbBRXsCLInHCdu8N5UujLN3agZYnL8aXnsclAZl6Dj2KvyCJWti9L72jK09bjvVaOBuIX+bVmJFjN3M7Lq3vcaR9SVy4F7Cra7cu2OtycrTJvVjrbgTnqop/i4cGbNqdFN3B95TBTuTHkFyqj5QISVpULecgrqAcght3Yh/A8pz4bIG5Vco9Yrv8wUyLbLCZRNKpDgqcqxCy7tYFqESPQndlK1NX2kuEu7DtK/9o/0XmBgtNbMJZ1yEug==',
-                           region_name= 'us-east-1')
 
 table = dynamo_db.Table('players')
 
