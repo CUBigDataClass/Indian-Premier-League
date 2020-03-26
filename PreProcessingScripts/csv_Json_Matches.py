@@ -13,7 +13,7 @@ with open(csvfile) as csvfile1:
     reader_in=csv.DictReader(csvfile1)
     rows=[]
     for row in reader_in:
-        # row['id']=int(row['id'])
+        #row['id']=int(row['id'])
         row['season']=int(row['season'])
         row['date']=re.sub(r'(\d+)-(\d+)-(\d+)', r'\2/\3/\1', row['date'])
         row['dl_applied']=int(row['dl_applied'])
