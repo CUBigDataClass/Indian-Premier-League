@@ -1537,5 +1537,150 @@
                 "longitude": 77.583333,
                 "country_code": "IN",
                 "country": "India"
+        },
+        "171": {
+                "uid": "c323892ed0c84effae7a63aa6afacb1f",
+                "player_name": "Abdul Samad",
+                "birthplace": "Jammu and Kashmir",
+                "latitude": 33.7782,
+                "longitude": 76.5762,
+                "country_code": "IN",
+                "country": "India"
+          
+        },
+        "172": {
+                "uid": "fbf46438724f4535802bd3411d1eda06",
+                "player_name": "Abhishek Sharma",
+                "birthplace": "Amritsar",
+                "latitude": 31.6340,
+                "longitude": 74.8723,
+                "country_code": "IN",
+                "country": "India"          
+        },
+        "173":{
+                "uid": "357bbb5a747e4edfbb302543a8be9935",
+                "player_name": "T Natarajan",
+                "birthplace": "Salem",
+                "latitude": 11.6643,
+                "longitude": 78.1460,
+                "country_code": "IN",
+                "country": "India"            
+        },
+        "174":{
+                "uid": "8d439884542f4118ad4d659e5879d021",
+                "player_name": "Sherfane Rutherford",
+                "birthplace": null,
+                "latitude": 21.9833,
+                "longitude": -79.0333,
+                "country_code": "WI",
+                "country": "West Indies"                      
+        },
+        "175":{
+                "uid": "f0464e375f3641169c8b7702724e30da",
+                "player_name": "Sarfaraz Khan",
+                "birthplace": "Mumbai",
+                "latitude": 18.93016,
+                "longitude": 72.83028,
+                "country_code": "IN",
+                "country": "India"                      
+        },          
+        "176":{
+                "uid": "0aa6f7f081324d1c9b227d35e7320abb",
+                "player_name": "Rinku Singh",
+                "birthplace": "Aligarh",
+                "latitude": 27.88643,
+                "longitude": 78.07426,
+                "country_code": "IN",
+                "country": "India"               
+        },
+        "177":{
+                "uid": "23c86f7907b645c7b8a14c4b95339ed5",
+                "player_name": "Prince Balwant Rai Singh",
+                "birthplace": "Sangrur",
+                "latitude": 30.25108,
+                "longitude": 75.83437,
+                "country_code": "IN",
+                "country": "India"          
+        },
+        "178":{
+                "uid": "8c2c77e45f7c4fc7aacee1c4e3e58cc5",
+                "player_name": "Oshane Thomas",
+                "birthplace": null,
+                "latitude": 21.9833,
+                "longitude": -79.0333,
+                "country_code": "WI",
+                "country": "West Indies"               
+        },
+        "179":{
+                "uid": "680f8c8303e54e82b31fe46a142f99ee",
+                "player_name": "Mohsin Khan",
+                "birthplace": "Sambhal",
+                "latitude": 28.58438,
+                "longitude": 78.57182,
+                "country_code": "IN",
+                "country": "India"          
+        },
+        "180":{
+                "uid": "576cecaa0299441daf6419c4d7910496",
+                "player_name": "M Siddharth",
+                "birthplace": "Tamil Nadu",
+                "latitude": 11.01616,
+                "longitude": 78.40894,
+                "country_code": "IN",
+                "country": "India"                    
+        },
+        "181":{
+                "uid": "129389afe0ac4f0eb6ac4d84d31b3cdb",
+                "player_name": "Harpreet Brar",
+                "birthplace": "Punjab",
+                "latitude": 30.8366,
+                "longitude": 75.41872,
+                "country_code": "IN",
+                "country": "India"                    
+        },
+        "182":{
+                "uid": "704bdd2841954766b2a1c886d72f28ff",
+                "player_name": "Digvijay Deshmukh",
+                "birthplace": "Maharashtra",
+                "latitude": 19.451118,
+                "longitude": 76.108864,
+                "country_code": "IN",
+                "country": "India"                 
+        },
+        "183":{
+                "uid": "1fd1f8dbbd6a4c11b471fbe174a7cc9a",
+                "player_name": "David Miller",
+                "birthplace": "Pietermaritzburg",
+                "latitude": -29.60064,
+                "longitude": 30.378,
+                "country_code": "SA",
+                "country": "South Africa"             
+        },
+        "184":{
+                "uid": "6f98750547a2495f9d2447ca9f1a2643",
+                "player_name": "Chris Morris",
+                "birthplace": "Pretoria",
+                "latitude": -25.74581,
+                "longitude": 28.18838,
+                "country_code": "SA",
+                "country": "South Africa"             
+        },
+        "185":{
+                "uid": "6c873a1417be4bf4bae1da88019b94d7",
+                "player_name": "Chris Green",
+                "birthplace": "Durban",
+                "latitude": -29.849184,
+                "longitude": 30.987312,
+                "country_code": "SA",
+                "country": "South Africa"           
+        },
+        "186":{
+                "uid": "47ddce4ce2c349f4bd3ebabbef3fb5ed",
+                "player_name": "Arshdeep Singh",
+                "birthplace": "Guna",
+                "latitude": 24.6324,
+                "longitude": 77.3002,
+                "country_code": "IN",
+                "country": "India"           
         }
 }
