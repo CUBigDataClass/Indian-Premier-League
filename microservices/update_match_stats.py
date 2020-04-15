@@ -7,23 +7,21 @@ response = s3.get_object(Bucket='bda-configurations', Key='es-config.json')
 es_config = (json.loads(response['Body'].read()))
 
 
-def insert_into_es(each_doc):
-    insert_request = requests.post(
-        url="{}/{}/_doc/{}".format(es_config['es_url'], es_config['es_deliveries_index'], each_doc['match_id']),
-        data=json.dumps(each_doc),
-        headers=es_config['es_request_headers']).json()
+def insert_into_es(each_doc, index, _id):
+    insert_request = requests.post(url="{}/{}/_doc/{}".format(es_config['es_url'], index, _id),
+                                   data=json.dumps(each_doc),
+                                   headers=es_config['es_request_headers']).json()
     print(insert_request)
 
 
 def get_response(_id):
     match_info_response = requests.get(
-        "{}/{}/_doc/{}".format(es_config['es_url'], es_config['es_deliveries_index'], _id).json())
+        "{}/{}/_doc/{}".format(es_config['es_url'], es_config['es_deliveries_index'], _id)).json()
 
     return match_info_response
 
 
 def update(pub_json, match_info_response):
-
     if match_info_response['found']:
         match_info = match_info_response['_source']
 
@@ -261,6 +259,7 @@ def lambda_handler(event, context):
 
             match_info_response = get_response(currentEvent['uid'])
             match_info = update(currentEvent, match_info_response)
-            insert_into_es(match_info, currentEvent['uid'])
+            insert_into_es(currentEvent, es_config['es_deliveries_index'], currentEvent['uid'])
+            insert_into_es(match_info, es_config['es_matches_index'], int(match_info['match_id']))
 
     # response = requests.post('http://34.227.172.158:3718/', json=json.dumps(currentEvent))
