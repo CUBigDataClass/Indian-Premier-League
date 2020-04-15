@@ -1,6 +1,7 @@
 import redis
 import json
 
+
 r = redis.Redis(host='52.54.250.17', port=6379, db=0)
 with open('../data/delivery_with_uid.json') as f:
   data = json.load(f)
