@@ -2,10 +2,7 @@ import json
 import boto3
 import uuid
 
-client = boto3.resource('dynamodb',
-                        aws_access_key_id='AKIAWGMK4MS7D3HOP7SJ',
-                        aws_secret_access_key='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',
-                        region_name='ap-south-1')
+
 table = client.Table('players')
 players_set = set()
 pending_players_set = set ()
