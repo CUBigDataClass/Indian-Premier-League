@@ -9,7 +9,7 @@ import requests
 # es_config = (json.loads(response['Body'].read()))
 with open('../configurations/es-config.json') as f:
   es_config = json.load(f)
-print(es_config)
+# print(es_config)
 with open('../configurations/delivery_with_uid.json') as f:
   player_id_map = json.load(f)
 # player_id_map = (json.loads(response_2['Body'].read()))
@@ -20,11 +20,11 @@ def insert_into_es(each_doc, index, _id):
         insert_request = requests.post(url="{}/{}/_doc/{}".format(es_config['es_url'], index, _id),
                                        data=json.dumps(each_doc),
                                        headers=es_config['es_request_headers']).json()
-        print(each_doc,insert_request, 400)
+        # print(each_doc,index,insert_request)
         # print(each_doc, index, _id)
 
     except Exception as es:
-        print(each_doc, index, _id)
+        print(each_doc, index, _id,"exception",insert_request)
         print(str(es))
         exit(0)
 
@@ -36,29 +36,30 @@ def get_response(index, _id):
     return match_info_response
 
 
-def update_player_info(player_id_map, pub_json, deliveries_info_response, player_type):
+def update_player_info(player_id_map, pub_json, player_info_response, player_type):
     try:
-        if deliveries_info_response['found']:
-            match_info = deliveries_info_response['_source']
+        if player_info_response['found']:
+            # match_info = deliveries_info_response['_source']
 
             #   Get ids of both batsman and bowler
-            if player_type == 'batsman':
-                player_id = player_id_map[pub_json['batsman']]
-            else:
-                player_id = player_id_map[pub_json['bowler']]
-
+            # if player_type == 'batsman':
+            #     player_id = player_id_map[pub_json['batsman']]
+            # else:
+            #     player_id = player_id_map[pub_json['bowler']]
+            player_id = player_info_response['_id']
             #   Retrieve info of both bowler and batsman
-            player_info = get_response(es_config['es_players_index'], player_id)
-            player_info = player_info['_source']
-            print(player_info, 'before')
-            match_id = int(match_info['match_id'])
+            # player_info = get_response(es_config['es_players_index'], player_id)
+            player_info = player_info_response['_source']
+            # print(player_info, 'before')
+            match_id = str(pub_json['match_id'])
 
             #   Check whether matches dict is in _source
-            if ('matches' not in player_info):
+            if 'matches' not in player_info:
                 player_info['matches'] = {}
 
             #   Check whether match id is in both players
-            if (match_id not in player_info['matches']):
+            # print(type(match_id))
+            if match_id not in player_info['matches']:
                 player_info['matches'][match_id] = {}
 
             player_match_info = player_info['matches'][match_id]
@@ -214,11 +215,11 @@ def update_player_info(player_id_map, pub_json, deliveries_info_response, player
             #   -------------------------------------------------------------------------------------------------------    #
 
             player_info['matches'][match_id] = player_match_info
-            print(player_info, 'updated')
+            # print(player_info, 'updated')
             return player_info, player_id
 
     except:
-        print(player_id_map, pub_json, deliveries_info_response, player_type)
+        print(player_id_map, pub_json, player_info_response, player_type)
         exit(0)
         # return {}, ''
 
@@ -226,7 +227,7 @@ def update_player_info(player_id_map, pub_json, deliveries_info_response, player
 def update_match_info(pub_json, match_info_response):
     if match_info_response['found']:
         match_info = match_info_response['_source']
-        print("before", match_info)
+        # print("before", match_info)
 
         # Initialize batsman and bowler dictionaries to setup a player's combined profile
         # if pub_json['batsman'] not in match_info:
@@ -430,10 +431,10 @@ def update_match_info(pub_json, match_info_response):
 
         #   -------------------------------------------------------------------------------------------------------    #
         #   Initialize and update balls bowled of a particular player if balls bowled
-        # if 'balls_bowled' not in match_info[pub_json['bowler']]:
-        #     match_info[pub_json['bowler']]['balls_bowled'] = 0
+        if 'balls_bowled' not in match_info:
+            match_info['balls_bowled'] = 0
 
-        # match_info[pub_json['bowler']]['balls_bowled'] += 1
+        match_info['balls_bowled'] += 1
         #   -------------------------------------------------------------------------------------------------------    #
 
         #   -------------------------------------------------------------------------------------------------------    #
@@ -445,7 +446,7 @@ def update_match_info(pub_json, match_info_response):
         #         match_info[pub_json['bowler']]['wickets'] = 1
         #   -------------------------------------------------------------------------------------------------------    #
 
-        print("after",match_info)
+        # print("after",match_info)
         return match_info
 
     return {}
@@ -488,20 +489,34 @@ def lambda_handler(event, context):
 
 def manipulate_data(currentEvent):
     deliveries_info_response = get_response(es_config['es_deliveries_index'], currentEvent['uid'])
+    match_info_response = get_response(es_config['es_matches_index'], currentEvent['match_id'])
+    player_info_response1 = get_response(es_config['es_players_index'], player_id_map[currentEvent['batsman']])
+    player_info_response2 = get_response(es_config['es_players_index'], player_id_map[currentEvent['bowler']])
+    # print(match_info_response)
+    # print(player_info_response1)
+    # print(player_info_response2)
+    # exit(0)
 
-    match_info = update_match_info(currentEvent, deliveries_info_response)
-
-    player_info_1, pid_1 = update_player_info(player_id_map, currentEvent, deliveries_info_response, 'batsman')
-    player_info_2, pid_2 = update_player_info(player_id_map, currentEvent, deliveries_info_response, 'bowler')
+    match_info = update_match_info(currentEvent, match_info_response)
+    # print(json.dumps(match_info, indent=2))
+    player_info_1, pid_1 = update_player_info(player_id_map, currentEvent, player_info_response1, 'batsman')
+    # print(json.dumps(player_info_1, indent=2))
+    player_info_2, pid_2  = update_player_info(player_id_map, currentEvent, player_info_response2, 'bowler')
+    # print(json.dumps(player_info_2, indent=2))
+    # exit(0)
+    #
+    # player_info_1, pid_1 = update_player_info(player_id_map, currentEvent, player_info_response1, 'batsman')
+    # player_info_2, pid_2 = update_player_info(player_id_map, currentEvent, player_info_response2, 'bowler')
 
     insert_into_es(currentEvent, es_config['es_deliveries_index'], currentEvent['uid'])
 
-    insert_into_es(match_info, es_config['es_matches_index'], int(match_info['match_id']))
+    insert_into_es(match_info, es_config['es_matches_index'], int(match_info['id']))
 
-    print(player_info_1, pid_1)
-    print(player_info_2, pid_2)
+    # print(player_info_1, pid_1)
+    # print(player_info_2, pid_2)
     insert_into_es(player_info_1, es_config['es_players_index'], pid_1)
     insert_into_es(player_info_2, es_config['es_players_index'], pid_2)
+
 
 #
 # with open('../data/deliveries/deliveries.json') as f:
@@ -513,26 +528,28 @@ def manipulate_data(currentEvent):
 
 
 
-## matches load to ES
-with open('../data/matches/matches_latlong.json') as f:
-  matches = json.load(f)
-for each_ in matches:
-    print(each_)
-    # exit(0)
-    location = {}
-    location['lat'] = each_['latitude']
-    location['lon'] = each_['longitude']
-    each_.pop('latitude')
-    each_.pop('longitude')
-    each_['location'] = location
-    print(insert_into_es(each_,"matches", each_['id']))
-    # exit(0)
+# ## matches load to ES
+# with open('../data/matches/matches_latlong.json') as f:
+#   matches = json.load(f)
+# for each_ in matches:
+#     print(each_)
+#     # exit(0)
+#     location = {}
+#     location['lat'] = each_['latitude']
+#     location['lon'] = each_['longitude']
+#     each_.pop('latitude')
+#     each_.pop('longitude')
+#     each_['location'] = location
+#     print(insert_into_es(each_,"matches", each_['id']))
+#     # exit(0)
 
 ## Players load to ES
 with open('../data/players.json') as f:
   players = json.load(f)
-for each_ in players:
-    print(each_)
+print(type(players))
+print(players.keys())
+for each_ in players.keys():
+    print(players[each_])
     # exit(0)
     # location = {}
     # location['lat'] = each_['latitude']
@@ -540,4 +557,4 @@ for each_ in players:
     # each_.pop('latitude')
     # each_.pop('longitude')
     # each_['location'] = location
-    print(insert_into_es(each_,"players", each_['uid']))
+    print(insert_into_es(players[each_],"players", players[each_]['uid']))
