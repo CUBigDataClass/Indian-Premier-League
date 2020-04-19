@@ -384,11 +384,11 @@ def update_match_info(pub_json, match_info_response):
 
         #   -------------------------------------------------------------------------------------------------------    #
         #   Initialize total extras and total wickets for the entire match
-        # if 'total_extras' not in match_info:
-        #     match_info['total_extras'] = 0
+        if 'total_extras' not in match_info:
+            match_info['total_extras'] = 0
         #     match_info[pub_json['bowler']]['total_extras'] = 0
-        # if 'total_wickets' not in match_info:
-        #     match_info['total_wickets'] = 0
+        if 'total_wickets' not in match_info:
+            match_info['total_wickets'] = 0
         #     match_info[pub_json['bowler']]['total_wickets'] = 0
 
         #   Update total extras and total wickets for the entire match
