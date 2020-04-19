@@ -56,11 +56,14 @@ def update_player_info(player_id_map, pub_json, player_info_response, player_typ
             #   Check whether matches dict is in _source
             if 'matches' not in player_info:
                 player_info['matches'] = {}
+                player_info['total_matches_played'] = 0
 
             #   Check whether match id is in both players
             # print(type(match_id))
             if match_id not in player_info['matches']:
+                player_info['matches'] = {}
                 player_info['matches'][match_id] = {}
+                player_info['total_matches_played'] += 1
 
             player_match_info = player_info['matches'][match_id]
 
