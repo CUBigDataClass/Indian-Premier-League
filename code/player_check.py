@@ -1,6 +1,6 @@
 import json
 missing_set = set()
-with open('../configurations/delivery_with_uid.json') as f:
+with open('../data/delivery_with_uid.json') as f:
   player_id_map = json.load(f)
 
 

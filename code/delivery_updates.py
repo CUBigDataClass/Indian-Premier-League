@@ -10,7 +10,7 @@ import requests
 with open('../configurations/es-config.json') as f:
   es_config = json.load(f)
 # print(es_config)
-with open('../configurations/delivery_with_uid.json') as f:
+with open('../data/delivery_with_uid.json') as f:
   player_id_map = json.load(f)
 # player_id_map = (json.loads(response_2['Body'].read()))
 
