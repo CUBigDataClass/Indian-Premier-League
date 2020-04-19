@@ -2278,7 +2278,7 @@
   },
   "207": {
     "uid": "273ebde54d6740e9be8161084df79c53",
-    "player_name": "PC ValthatyValthaty",
+    "player_name": "PC Valthaty",
     "birthplace": "Mumbai",
     "country_code": "IN",
     "country": "India",
@@ -6136,5 +6136,16 @@
       "lat": 28.916666999999997,
       "lon": 77.68333299999999
     }
-  }
+  },
+  "558": {
+                "uid": "357bbb5a747e4edfbb302543a8be9935",
+                "player_name": "T Natarajan",
+                "birthplace": "Salem",
+                "country_code": "IN",
+                "country": "India",
+                "location": {
+                        "lat": 11.6643,
+                        "lon": 78.146
+                }
+        }
 }
