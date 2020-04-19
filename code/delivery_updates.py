@@ -503,28 +503,41 @@ def manipulate_data(currentEvent):
     insert_into_es(player_info_1, es_config['es_players_index'], pid_1)
     insert_into_es(player_info_2, es_config['es_players_index'], pid_2)
 
-
-with open('../data/deliveries/deliveries.json') as f:
-  deliveries = json.load(f)
-for each_ in deliveries:
-    print(deliveries[each_])
-    manipulate_data(currentEvent= deliveries[each_])
-    # exit(0)
+#
+# with open('../data/deliveries/deliveries.json') as f:
+#   deliveries = json.load(f)
+# for each_ in deliveries:
+#     print(deliveries[each_])
+#     manipulate_data(currentEvent= deliveries[each_])
+#     # exit(0)
 
 
 
 ## matches load to ES
-# with open('../data/matches/matches_latlong.json') as f:
-#   matches = json.load(f)
-# for each_ in matches:
-#     print(each_)
-#     # exit(0)
-#     location = {}
-#     location['lat'] = each_['latitude']
-#     location['lon'] = each_['longitude']
-#     each_.pop('latitude')
-#     each_.pop('longitude')
-#     each_['location'] = location
-#     print(insert_into_es(each_,"matches", each_['id']))
-#     # exit(0)
+with open('../data/matches/matches_latlong.json') as f:
+  matches = json.load(f)
+for each_ in matches:
+    print(each_)
+    # exit(0)
+    location = {}
+    location['lat'] = each_['latitude']
+    location['lon'] = each_['longitude']
+    each_.pop('latitude')
+    each_.pop('longitude')
+    each_['location'] = location
+    print(insert_into_es(each_,"matches", each_['id']))
+    # exit(0)
 
+## Players load to ES
+with open('../data/players.json') as f:
+  players = json.load(f)
+for each_ in players:
+    print(each_)
+    # exit(0)
+    # location = {}
+    # location['lat'] = each_['latitude']
+    # location['lon'] = each_['longitude']
+    # each_.pop('latitude')
+    # each_.pop('longitude')
+    # each_['location'] = location
+    print(insert_into_es(each_,"players", each_['uid']))
