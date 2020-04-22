@@ -28,3 +28,12 @@ This project aims to show some cool intresting facts, records, results of IPL
 -   AWS Lambda transforms the data into meaningful patterns, which are further loaded into ElasticSearch cluster.
 -   AWS Lambda also fetches additional Geo data through Google API.
 -   AWS Lambda uses Redis for a quick Key: Value mapping lookup.
+
+### Load
+
+-   ElasticSearch indices all the incoming data from Lambdas.
+-   Data on ElasticSearch is split on the nodes in the cluster.
+-   All the 3 formats of the data are stored in different indices -
+    -   deliveries
+    -   matches
+    -   players
