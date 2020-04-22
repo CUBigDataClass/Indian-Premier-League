@@ -11,13 +11,20 @@ This project aims to show some cool intresting facts, records, results of IPL
 
 ### Extract
 
-1.  Data has been sourced from multiple areas -
+-   Data has been sourced from multiple areas -
     -   Scrapping from popular cricketing websites.
     -   Scrapping wiki pages.
     -   Through Google API for Geo points.
     -   Kaggle datasets.
     
-2.  All the data is then stored in Amazon S3, which is then pushed into DynamoDB. S3 event invokes AWS Lambda which does the    data parsing before it is rested in DynamoDB.  
+-   All the data is then stored in Amazon S3, which is then pushed into DynamoDB. S3 event invokes AWS Lambda which does the    data parsing before it is rested in DynamoDB.  
 
-3.  The entire data has been utilized into three tables in DynamoDB, namely - deliveries, matches, players. This data acts as a source of truth for all the further operations.
+-   The entire data has been utilized into three tables in DynamoDB, namely - deliveries, matches, players. This data acts as a source of truth for all the further operations.
 
+### Transform
+
+-   All the semi-parsed data is transformed into a meaningful entry - JSON.  
+-   Triggers on DynamoDB would invoke AWS Lambda whenever a new entry is added into DynamoDB. 
+-   AWS Lambda transforms the data into meaningful patterns, which are further loaded into ElasticSearch cluster.
+-   AWS Lambda also fetches additional Geo data through Google API.
+-   AWS Lambda uses Redis for a quick Key: Value mapping lookup.
